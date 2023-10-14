@@ -1,0 +1,30 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+h1 {
+  text-align: center;
+}
+input {
+  width: 300px;
+  padding: 5px;
+  margin-bottom: 10px;
+  text-align: left;
+}
+button {
+  padding: 5px 10px;
+  background-color: #2969fd;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  height: 30px;
+}
+p {
+  text-align: center;
+  margin-top: 10px;
+}
